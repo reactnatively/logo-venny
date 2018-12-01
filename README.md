@@ -11,3 +11,8 @@ Taco style slightly rotated:
 
 Color Scheme: 
 ![alt text](https://github.com/reactnatively/logo-venny/blob/master/logo-venny-color-scheme.png "Color Scheme")
+
+Here are our competitors:
+* https://www.meteor.com/
+* https://realm.io/
+* https://getstream.io/
